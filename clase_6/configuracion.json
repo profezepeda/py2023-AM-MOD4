@@ -1,0 +1,7 @@
+{
+  "servidor": "localhost",
+  "puerto": "3306",
+  "database": "falta_poco_para_el_break",
+  "usuario": "root",
+  "password": "123"
+}
